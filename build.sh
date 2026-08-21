@@ -172,6 +172,7 @@ esac
 detect_env ()
 {
     # Set Build Variable
+    # by svrcode NETVPN
     separator
 
     DATE=`date +"%Y%m%d"`
